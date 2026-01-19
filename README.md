@@ -2,8 +2,8 @@
 ` Software Developer `
 
 
-## 😎 Hello! Thank you for Stopping by 
-I graduated from `Arizona State University 🔱` with a `B.S. Computer Science (Cybersecurity)` in December 2025. I have been programming since the summer of 2022 and work adamantly everyday towards learning more and applying my skills as a programmer. Feel free to continue reading below to learn a little bit more about my skills as a programmer and visit any links that interest you!
+## Hello! Thank you for Stopping by 😎
+	I graduated from `Arizona State University 🔱` with a `B.S. Computer Science (Cybersecurity)` in December 2025. I have been programming since the summer of 2022 and work adamantly everyday towards learning more and applying my skills as a programmer. Feel free to continue reading below to learn a little bit more about me and visit any links that interest you!
 
 
 ## Programming Languages 📜
@@ -28,10 +28,11 @@ When developing any software or other digital product, I focus on the following 
 
 
 
-
 ## Content Links 🌐
 
-<a src="https://github.com/John-Bostater" >Personal Website</a>
+<a href="https://github.com/John-Bostater"> Personal Website </a> 🌎
+
+<a href="https://john-bostater.github.io/ClickClack/"> Click Clack </a> ⌨️
 
 
 <!--[AI Acknowledgement, January 2026]:
