@@ -21,7 +21,7 @@ List of the programming languages I am familiar with, from most to least. The fi
 
 
 ## Development Principles 🛠️
-When developing any software or other digital product, I focus on the following principles.
+When developing any software or other digital products, I focus on the following principles.
 - Minimalism 
 - User-Friendliness
 - Guarantees to User-Privacy
