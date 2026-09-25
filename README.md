@@ -1,9 +1,9 @@
-# John Bostater 🏜️
+# John Bostater
 ` Software Developer `
 
 
 ## Hello! Thank you for stopping by
-I graduated from `Arizona State University 🔱` with a `B.S. Computer Science (Cybersecurity)` in December 2025. I have been programming since the summer of 2022 and work adamantly everyday towards learning more and applying my skills as a programmer. Feel free to continue reading below to learn a little bit more about me and visit any links that interest you!
+I graduated from `Arizona State University` with a `B.S. Computer Science (Cybersecurity)` in December 2025. I have been programming since the summer of 2022 and work adamantly everyday towards learning more and applying my skills as a programmer. Feel free to continue reading below to learn a little bit more about me and visit any links that interest you!
 
 
 ## Programming Languages 📜
