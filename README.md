@@ -6,21 +6,21 @@
 I graduated from `Arizona State University` with a `B.S. Computer Science (Cybersecurity)` in December 2025. I have been programming since the summer of 2022 and work adamantly everyday towards learning more and applying my skills as a programmer. Feel free to continue reading below to learn a little bit more about me and visit any links that interest you!
 
 
-## Programming Languages 📜
+## Programming Languages
 List of the programming languages I am familiar with, from most to least. The first programming language I learned was Java.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
 </p>
 
 
 
-## Development Principles 🛠️
+## Development Principles
 When developing any software or other digital products, I focus on the following principles.
 - Minimalism 
 - User-Friendliness
@@ -28,7 +28,7 @@ When developing any software or other digital products, I focus on the following
 
 
 
-## Content Links 🌐
+## Content Links
 
 <a href="https://john-bostater.github.io/JohnBostater/"> Personal Website </a> 🌎
 
