@@ -30,9 +30,7 @@ When developing any software or other digital products, I focus on the following
 
 ## Content Links
 
-<a href="https://john-bostater.github.io/JohnBostater/"> Personal Website </a> 🌎
-
-<a href="https://john-bostater.github.io/ClickClack/"> Click Clack </a> ⌨️
+<a href="https://john-bostater.github.io/John_Bostater/"> Personal Website </a> 🌎
 
 
 <!--[AI Acknowledgement, January 2026]:
