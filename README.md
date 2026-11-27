@@ -32,6 +32,12 @@ When developing any software or other digital products, I focus on the following
 
 <a href="https://john-bostater.github.io/John_Bostater/"> Personal Website </a> 🌎
 
+<a href="https://marketplace.visualstudio.com/items?itemName=JohnBostater.folder-expo"> Folder Expo </a> 📁
+
+<a href="https://marketplace.visualstudio.com/items?itemName=JohnBostater.change-of-theme"> Change of Theme </a> 🌇
+
+<a href="https://john-bostater.github.io/ClickClack/"> Click Clack </a> ⌨️
+
 
 <!--[AI Acknowledgement, January 2026]:
 
